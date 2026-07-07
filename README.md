@@ -1,8 +1,6 @@
-![Graviton Drive Banner](images/graviton-drive-banner.jpg)
+![Graviton Drive Banner](images/graviton-drive-banner.png)
 
 # Graviton Drive
-
-**Conceptual Research into Future Graviton-Based Technologies**
 
 The Graviton Drive is a conceptual research project exploring how future graviton-based technologies could transform transportation, logistics, construction, emergency response, humanitarian operations, aerospace and infrastructure.
 
