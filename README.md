@@ -10,7 +10,7 @@ The aim is to encourage discussion, stimulate engineering thought, and provide p
 
 ## Live Website
 
-\*\*[https://gravitondrive.com\*\*](https://gravitondrive.com/)
+[https://gravitondrive.com](https://gravitondrive.com/)
 
 ## Project Overview
 
